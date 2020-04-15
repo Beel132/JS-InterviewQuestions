@@ -1,6 +1,6 @@
 /* Given a string, reverse each word in the sentence */
 
-function reverse(str) { // We're going to write a function that reverses the string passed in. (the hard way)
+function reverse(str) { // We're going to write a function that reverses the string passed in. (the hard way);
     let string_arr = str.toString().split(''); // so we transform it in an array.
     let result = new Array();
 
